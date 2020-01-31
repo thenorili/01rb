@@ -1,5 +1,3 @@
-#!/home/nori/.rubies/ruby-2.7.0/bin ruby
-
 def HailstoneSequence(n)
   if n.is_a?(Integer) && n > 1 
     puts "Hailstone Sequence for \n #{n}"
